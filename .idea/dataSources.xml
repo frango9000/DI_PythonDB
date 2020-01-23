@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - narf@localhost" uuid="4830599a-294c-4adc-a591-9e6d330cb73f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/narf</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQLite - test.db" uuid="291e76d3-8efe-43b9-8011-a56b3f81e14d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/sqlite/test.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c63c483-195e-42d4-ae52-afaa08865117" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DI_PythonDB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/291e76d3-8efe-43b9-8011-a56b3f81e14d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4830599a-294c-4adc-a591-9e6d330cb73f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4830599a-294c-4adc-a591-9e6d330cb73f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/mysql_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/sqlite_a_connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/sqlite_b_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/sqlite_c_inset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/sqlite_d_query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/sqlite_e_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/sqlite_f_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/test.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wn5aamJVoWLcZjn6Qks2sPuuet" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sqlite_f_delete">
+    <configuration name="sqlite_b_create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DI_PythonDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite/sqlite_b_create.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlite_c_inset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DI_PythonDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite/sqlite_c_inset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlite_d_query" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DI_PythonDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite/sqlite_d_query.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlite_e_update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DI_PythonDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite/sqlite_e_update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlite_f_delete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DI_PythonDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite/sqlite_f_delete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sqlite_f_delete" />
+        <item itemvalue="Python.sqlite_e_update" />
+        <item itemvalue="Python.sqlite_d_query" />
+        <item itemvalue="Python.sqlite_c_inset" />
+        <item itemvalue="Python.sqlite_b_create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c63c483-195e-42d4-ae52-afaa08865117" name="Default Changelist" comment="" />
+      <created>1579772582078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579772582078</updated>
+      <workItem from="1579772585358" duration="1655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="185" width="800" height="677" key="#SQL_Dialects" timestamp="1579773346990">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="555" y="185" width="800" height="677" key="#SQL_Dialects/0.27.1920.996@0.27.1920.996" timestamp="1579773346990" />
+    <state x="555" y="185" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579773432176">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="555" y="185" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.996@0.27.1920.996" timestamp="1579773432176" />
+    <state x="0" y="120" width="1118" height="808" key="CommitChangelistDialog2" timestamp="1579774001421">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="0" y="120" width="1118" height="808" key="CommitChangelistDialog2/0.27.1920.996@0.27.1920.996" timestamp="1579774001421" />
+    <state x="738" y="252" width="424" height="543" key="FileChooserDialogImpl" timestamp="1579773467312">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="738" y="252" width="424" height="543" key="FileChooserDialogImpl/0.27.1920.996@0.27.1920.996" timestamp="1579773467312" />
+    <state width="1071" height="260" key="GridCell.Tab.0.bottom" timestamp="1579773896964">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1071" height="260" key="GridCell.Tab.0.bottom/0.27.1920.996@0.27.1920.996" timestamp="1579773896964" />
+    <state width="1071" height="260" key="GridCell.Tab.0.center" timestamp="1579773896964">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1071" height="260" key="GridCell.Tab.0.center/0.27.1920.996@0.27.1920.996" timestamp="1579773896964" />
+    <state width="1071" height="260" key="GridCell.Tab.0.left" timestamp="1579773896963">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1071" height="260" key="GridCell.Tab.0.left/0.27.1920.996@0.27.1920.996" timestamp="1579773896963" />
+    <state width="1071" height="260" key="GridCell.Tab.0.right" timestamp="1579773896964">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1071" height="260" key="GridCell.Tab.0.right/0.27.1920.996@0.27.1920.996" timestamp="1579773896964" />
+    <state x="469" y="154" key="SettingsEditor" timestamp="1579773473833">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="469" y="154" key="SettingsEditor/0.27.1920.996@0.27.1920.996" timestamp="1579773473833" />
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1579773445096">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup/0.27.1920.996@0.27.1920.996" timestamp="1579773445096" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DI_PythonDB$mysql_inset.coverage" NAME="mysql_inset Coverage Results" MODIFIED="1579773543044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite" />
+    <SUITE FILE_PATH="coverage/DI_PythonDB$mysql_a.coverage" NAME="mysql_a Coverage Results" MODIFIED="1579773026509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DI_PythonDB$sqlite_e_update.coverage" NAME="sqlite_e_update Coverage Results" MODIFIED="1579773828662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite" />
+    <SUITE FILE_PATH="coverage/DI_PythonDB$sqlite_f_delete.coverage" NAME="sqlite_f_delete Coverage Results" MODIFIED="1579773896954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite" />
+    <SUITE FILE_PATH="coverage/DI_PythonDB$sqlite_a.coverage" NAME="sqlite_a Coverage Results" MODIFIED="1579773279669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite" />
+    <SUITE FILE_PATH="coverage/DI_PythonDB$mysql_d_query.coverage" NAME="mysql_d_query Coverage Results" MODIFIED="1579773602403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite" />
+    <SUITE FILE_PATH="coverage/DI_PythonDB$sqlite_b.coverage" NAME="sqlite_b Coverage Results" MODIFIED="1579773481014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite" />
+  </component>
+</project>
